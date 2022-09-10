@@ -50,7 +50,7 @@ specifiers:
   rehype-raw: 6.1.1
   remark-gfm: 3.0.1
   rimraf: 3.0.2
-  sass: 1.54.8
+  sass: 1.54.9
   tailwindcss: 3.1.8
   typescript: 4.7.4
   valtio: 1.6.4
@@ -67,7 +67,7 @@ dependencies:
   medium-zoom: 1.0.6
   mobx: 6.6.1
   mobx-react-lite: 3.4.0_m26jawr67gnusmh4egzqtnhxru
-  next: 12.2.5_vuxjv6o7qhupugnkyf7vyqsruq
+  next: 12.2.5_wgobgza36qebbzsbfctw2tohpy
   next-seo: 5.5.0_3xcjr4wz26biff45sz3jtokgje
   ohmyfetch: 0.4.18
   qier-progress: 1.0.4
@@ -108,7 +108,7 @@ devDependencies:
   postcss-nesting: 10.1.10_postcss@8.4.16
   prettier: 2.7.1
   rimraf: 3.0.2
-  sass: 1.54.8
+  sass: 1.54.9
   tailwindcss: 3.1.8_postcss@8.4.16
   typescript: 4.7.4
 
@@ -5509,7 +5509,7 @@ packages:
       babel-loader: 8.2.5
       clean-webpack-plugin: 4.0.0
       globby: 11.1.0
-      next: 12.2.5_vuxjv6o7qhupugnkyf7vyqsruq
+      next: 12.2.5_wgobgza36qebbzsbfctw2tohpy
       terser-webpack-plugin: 5.3.3
       workbox-webpack-plugin: 6.5.4
       workbox-window: 6.5.4
@@ -5535,12 +5535,12 @@ packages:
       react:
         optional: true
     dependencies:
-      next: 12.2.5_vuxjv6o7qhupugnkyf7vyqsruq
+      next: 12.2.5_wgobgza36qebbzsbfctw2tohpy
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
     dev: false
 
-  /next/12.2.5_vuxjv6o7qhupugnkyf7vyqsruq:
+  /next/12.2.5_wgobgza36qebbzsbfctw2tohpy:
     resolution: {integrity: sha512-tBdjqX5XC/oFs/6gxrZhjmiq90YWizUYU6qOWAfat7zJwrwapJ+BYgX2PmiacunXMaRpeVT4vz5MSPSLgNkrpA==}
     engines: {node: '>=12.22.0'}
     hasBin: true
@@ -5566,7 +5566,7 @@ packages:
       postcss: 8.4.14
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
-      sass: 1.54.8
+      sass: 1.54.9
       styled-jsx: 5.0.4_react@18.2.0
       use-sync-external-store: 1.2.0_react@18.2.0
     optionalDependencies:
@@ -6578,8 +6578,8 @@ packages:
     dev: true
     optional: true
 
-  /sass/1.54.8:
-    resolution: {integrity: sha512-ib4JhLRRgbg6QVy6bsv5uJxnJMTS2soVcCp9Y88Extyy13A8vV0G1fAwujOzmNkFQbR3LvedudAMbtuNRPbQww==}
+  /sass/1.54.9:
+    resolution: {integrity: sha512-xb1hjASzEH+0L0WI9oFjqhRi51t/gagWnxLiwUNMltA0Ab6jIDkAacgKiGYKM9Jhy109osM7woEEai6SXeJo5Q==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     dependencies:
