@@ -70,7 +70,7 @@
     "rehype-katex": "6.0.2",
     "rehype-raw": "6.1.1",
     "remark-gfm": "3.0.1",
-    "valtio": "1.6.4"
+    "valtio": "1.7.6"
   },
   "devDependencies": {
     "@innei-util/eslint-config-react-ts": "0.8.2",
